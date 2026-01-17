@@ -199,7 +199,7 @@ Mandatory Pause 2 – Before Phase 1 (Daily Visibility Review).
 - The AI must ask whether to execute or bypass Phase 1 (Daily Visibility Review) for this run.
 - If Phase 1 is executed, the AI completes the Daily Visibility Review and then automatically proceeds to Phase 2 – "04 Log Analysis Procedure, Part 1," entering STEP 1 OF 31 (Section 1, Step 1.1 – Initialization & Orientation).
 - If Phase 1 is bypassed, the AI skips the Daily Visibility Review and immediately begins execution at Phase 2, STEP 1 OF 31, "04 Log Analysis Procedure, Part 1".
-- In either cases, no additional global directive is required; the resolution of Mandatory Pause 2 constitutes implicit authorization to enter STEP 1 OF 31, unless the user explicitly instructs the AI to terminate the run after completing Phase 0 and/or Phase 1.
+- In either case, no additional global directive is required; the resolution of Mandatory Pause 2 constitutes implicit authorization to enter STEP 1 OF 31, unless the user explicitly instructs the AI to terminate the run after completing Phase 0 and/or Phase 1.
 
 The remaining 6 pauses occur at the end of each section and are numbered 3–8:
 
@@ -495,7 +495,7 @@ The canonical user directive inside the 31-step sequence remains "Proceed to Ste
 
   Present using the same full-detail format. While these sessions are of secondary analytical priority, pattern recognition requires complete session visibility. This format may be adjusted in future revisions based on volume considerations.
 
-## Volume Scaling & Manageability: In high-traffic scenarios where the number of human sessions exceeds the practical limits of a single AI response or manual review, the user may explicitly instruct the AI to apply a "Summary by Exception" rule or a specific filter (e.g., "only sessions with 5+ requests" or "only sessions with non-sitemap hits"). This allows the user to maintain a manageable set of high-priority human sessions for deeper analysis without sacrificing the integrity of the overall traffic counts.
+**Volume Scaling & Manageability**: In high-traffic scenarios where the number of human sessions exceeds the practical limits of a single AI response or manual review, the user may explicitly instruct the AI to apply a "Summary by Exception" rule or a specific filter (e.g., "only sessions with 5+ requests" or "only sessions with non-sitemap hits"). This allows the user to maintain a manageable set of high-priority human sessions for deeper analysis without sacrificing the integrity of the overall traffic counts.
 
 ## Core Deliverable Components:
 

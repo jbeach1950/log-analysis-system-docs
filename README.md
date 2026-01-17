@@ -493,11 +493,13 @@ The canonical user directive inside the 31-step sequence remains "Proceed to Ste
 
 ## Lower-confidence sessions:
 
-  Present using the same full-detail format. While these sessions are of secondary analytical priority, pattern recognition requires complete session visibility. This format may be adjusted in future revisions based on volume considerations.
+Present using the same full-detail format. While these sessions are of secondary analytical priority, pattern recognition requires complete session visibility. This format may be adjusted in future revisions based on volume considerations.
 
-**Volume Scaling & Manageability**: In high-traffic scenarios where the number of human sessions exceeds the practical limits of a single AI response or manual review, the user may explicitly instruct the AI to apply a "Summary by Exception" rule or a specific filter (e.g., "only sessions with 5+ requests" or "only sessions with non-sitemap hits"). This allows the user to maintain a manageable set of high-priority human sessions for deeper analysis without sacrificing the integrity of the overall traffic counts.
+### Volume Scaling & Manageability:
 
-## Core Deliverable Components:
+In high-traffic scenarios where the number of human sessions exceeds the practical limits of a single AI response or manual review, the user may explicitly instruct the AI to apply a "Summary by Exception" rule or a specific filter (e.g., "only sessions with 5+ requests" or "only sessions with non-sitemap hits"). This allows the user to maintain a manageable set of high-priority human sessions for deeper analysis without sacrificing the integrity of the overall traffic counts.
+
+### Core Deliverable Components:
 
   - Analysis overview
   - Audit of Administrative Exclusion (Step 2.1 performance)
